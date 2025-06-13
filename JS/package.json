@@ -1,0 +1,16 @@
+{
+  "name": "11---test",
+  "version": "1.0.0",
+  "description": "Projet de démonstration des tests unitaires",
+  "main": "src/discount.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": ["test", "jest", "unit-testing"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
